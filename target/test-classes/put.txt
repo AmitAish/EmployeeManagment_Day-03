@@ -1,0 +1,5 @@
+{
+        "empId": 106,
+        "empName": "Ram",
+        "empSal": 25000.0
+    }
